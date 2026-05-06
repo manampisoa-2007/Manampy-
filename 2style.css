@@ -1,0 +1,13 @@
+body{
+  background-color: bisque;
+}
+h1{
+  color: blue;
+}
+h2{
+  font-size: larger, smaller;
+}
+#tu{
+  color: black;
+  font-size: larger, smaller;
+}
